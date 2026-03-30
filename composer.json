@@ -2,7 +2,6 @@
     "name": "shopwarelabs/images-generator",
     "description": "Generator of placeholder images for Faker",
     "homepage": "https://github.com/shopwarelabs/images-generator",
-    "version": "1.0.1",
     "keywords": ["images-generator", "imagesgenerator", "faker", "fixtures", "data"],
     "license": "MIT",
     "authors": [
